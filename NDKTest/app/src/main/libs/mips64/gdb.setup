@@ -1,0 +1,3 @@
+set solib-search-path ./obj/local/mips64
+source /Users/eunjooim/Library/Android/ndk/prebuilt/common/gdb/common.setup
+directory /Users/eunjooim/Library/Android/ndk/platforms/android-21/arch-mips64/usr/include jni /Users/eunjooim/Library/Android/ndk/sources/cxx-stl/gnu-libstdc++
